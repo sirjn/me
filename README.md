@@ -1,1 +1,1 @@
-IT auto Marion with phyton
+IT automation with phyton
